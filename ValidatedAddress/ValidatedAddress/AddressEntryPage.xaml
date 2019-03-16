@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ValidatedAddress.AddressEntryPage"
+             Padding="20"
+             Title="Address Entry">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Keyboard="Text" Placeholder="Street" x:Name="street"/>
+            <Entry Keyboard="Numeric" Placeholder="Apt/Suite" x:Name="apartmentNumber"/>
+            <Entry Keyboard="Text" Placeholder="City" x:Name="city"/>
+            <Entry Keyboard="Text" Placeholder="State" x:Name="state"/>
+            <Entry Keyboard="Numeric" Placeholder ="Zip Code" x:Name="zip5"/>
+            <Button Text="Check" Clicked="Check_Address_Clicked" BorderRadius="10"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

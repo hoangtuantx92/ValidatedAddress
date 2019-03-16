@@ -1,0 +1,27 @@
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ClassLibrary1\bin\Debug\netstandard2.0\ValidatedAddressLibrary.deps.json
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ClassLibrary1\bin\Debug\netstandard2.0\ValidatedAddressLibrary.dll
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ClassLibrary1\bin\Debug\netstandard2.0\ValidatedAddressLibrary.pdb
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.csprojResolveAssemblyReference.cache
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.csproj.CoreCompileInputs.cache
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.AssemblyInfoInputs.cache
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.AssemblyInfo.cs
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.dll
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.pdb
+C:\Users\hoang\Desktop\ValidatedAddress\ClassLibrary1\bin\Debug\netstandard2.0\ValidatedAddressLibrary.deps.json
+C:\Users\hoang\Desktop\ValidatedAddress\ClassLibrary1\bin\Debug\netstandard2.0\ValidatedAddressLibrary.dll
+C:\Users\hoang\Desktop\ValidatedAddress\ClassLibrary1\bin\Debug\netstandard2.0\ValidatedAddressLibrary.pdb
+C:\Users\hoang\Desktop\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.AssemblyInfoInputs.cache
+C:\Users\hoang\Desktop\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.AssemblyInfo.cs
+C:\Users\hoang\Desktop\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.dll
+C:\Users\hoang\Desktop\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.pdb
+C:\Users\hoang\Desktop\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.csprojResolveAssemblyReference.cache
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ClassLibrary1\bin\Debug\netstandard2.0\ValidatedAddressLibrary.deps.json
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ClassLibrary1\bin\Debug\netstandard2.0\ValidatedAddressLibrary.dll
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ClassLibrary1\bin\Debug\netstandard2.0\ValidatedAddressLibrary.pdb
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.csprojResolveAssemblyReference.cache
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.AssemblyInfoInputs.cache
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.AssemblyInfo.cs
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.dll
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ClassLibrary1\obj\Debug\netstandard2.0\ValidatedAddressLibrary.pdb

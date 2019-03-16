@@ -1,0 +1,46 @@
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddress.deps.json
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddress.dll
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddress.pdb
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddressLibrary.dll
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddressLibrary.pdb
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.csprojResolveAssemblyReference.cache
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.csproj.CoreCompileInputs.cache
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.AddressEntryPage.xaml.g.cs
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.App.xaml.g.cs
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.DisplayValidatedAddress.xaml.g.cs
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.MainPage.xaml.g.cs
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.AssemblyInfoInputs.cache
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.AssemblyInfo.cs
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.csproj.CopyComplete
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.dll
+C:\Users\008\Desktop\softWare_fundemantal\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.pdb
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddress.deps.json
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddress.dll
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddress.pdb
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddressLibrary.dll
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddressLibrary.pdb
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.csprojResolveAssemblyReference.cache
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.AddressEntryPage.xaml.g.cs
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.App.xaml.g.cs
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.DisplayValidatedAddress.xaml.g.cs
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.MainPage.xaml.g.cs
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.AssemblyInfoInputs.cache
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.AssemblyInfo.cs
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.dll
+C:\Users\hoang\Desktop\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.pdb
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddress.deps.json
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddress.dll
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddress.pdb
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddressLibrary.dll
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\bin\Debug\netstandard2.0\ValidatedAddressLibrary.pdb
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.csprojResolveAssemblyReference.cache
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.AddressEntryPage.xaml.g.cs
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.App.xaml.g.cs
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.DisplayValidatedAddress.xaml.g.cs
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.MainPage.xaml.g.cs
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.AssemblyInfoInputs.cache
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.AssemblyInfo.cs
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.dll
+C:\Users\hoang\Desktop\software engineer\ValidatedAddress\ValidatedAddress\ValidatedAddress\obj\Debug\netstandard2.0\ValidatedAddress.pdb

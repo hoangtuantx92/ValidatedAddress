@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AddressValidateResponse>
+  <Address ID="0">
+    <Address1>Apt 2000</Address1>
+    <Address2>8499 Wilcrest Dr</Address2>
+    <City>Houston</City>
+    <State>TX</State>
+    <Zip5>77072</Zip5>
+    <Zip4>1441</Zip4>
+  </Address>
+</AddressValidateResponse>
